@@ -16,6 +16,17 @@
 
   <plugin name="cordova.plugins.diagnostic" />
   <plugin name="https://github.com/floatinghotpot/cordova-httpd.git" /> 
-
+  
+  <plugin name="https://github.com/bykof/cordova-plugin-webserver" />
+  
+  <plugin name="cordova-plugin-file" />
+  <plugin name="cordova-plugin-media" />
+  <plugin name="cordova-plugin-x-toast" />
+  <plugin name="cordova-plugin-network-information" />
+  <plugin name="cordova.plugins.diagnostic" />
+ 
+  <plugin name="cordova-plugin-device" />
+  <plugin name="cordova-plugin-geolocation" />
+  
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
